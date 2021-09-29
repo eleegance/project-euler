@@ -1,4 +1,5 @@
-//Problem: What is the largest prime factor of 600851475143?
+/*Problem: What is the largest prime factor of 600851475143?
+https://projecteuler.net/problem=3 */
 const primeCheckerFunction = (n) => {
   if (n === 1) {
     return "undefined";
